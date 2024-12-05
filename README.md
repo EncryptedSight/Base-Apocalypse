@@ -28,7 +28,7 @@ This image is created as part of the project focusing on blockchain and digital 
 
 ## Credits
 
-- **Artist**: [Your Name/Username]
+- **Artist**: EncryptedSight 
 - **Tools Used**: DALL·E, Digital Art Software
 - **Inspiration**: Base and Nouns Culture, Ethereum Blockchain, Modern Expressionism
 
