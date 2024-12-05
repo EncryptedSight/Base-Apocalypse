@@ -39,5 +39,4 @@ Feel free to download and use this artwork in your projects. You can customize t
 ## Contact
 
 For any inquiries or requests, feel free to reach out at:
-- **Email**: [your_email@example.com]
-- **Website**: [your_website.com]
+- **Email**: ruthezeh77@gmail.com.
